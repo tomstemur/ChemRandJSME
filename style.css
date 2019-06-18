@@ -1,0 +1,30 @@
+.equation {
+  min-height: 200px;
+  display: inline;
+  margin: auto auto;
+  vertical-align: middle;
+  padding-left: 10px;
+  padding-right: 10px;
+
+}
+
+.eqimg {
+   margin: auto auto;
+   display: inline;
+   vertical-align: middle;
+}
+
+.wholePage {
+  text-align: center;
+  width: 800px;
+}
+
+.content {
+  max-width:800px;
+  margin:auto;
+}
+
+.licenses {
+  font-size:10px;
+  text-align:center;
+}
